@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Instering Dataset
 
-You can use the [editor on GitHub](https://github.com/cross8046/cross8046.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+* This dataset is called the [Enron Corpus](https://www.cs.cmu.edu/~./enron/) and it consists of corporate emails of Enron that were made public after it was discovered that they were engaging in illegal activity. 
+* This datsset has been used for human language studies and is even used in certain applications we use today, such as Apple's Siri.
+* Future uses of the data can include assisting in email autofill and further understanding on corporate cukture through emails.  
+* One thing to note about this dataset is it is dated. It is from 200o and is from Texas. The people who created the data in the dataset were Enron employees, which is to say they were most likely educated and well off. This is important to note because future uses of the dataset should acknowldge its liitations, depending on what they are doing with the data. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Data Science Book
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cross8046/cross8046.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//) is a pivitol book to the big data/machine learning world. Joshua Starmer, an assistant professor at UNC Chappel Hill, has referred to it as the bible of machine learning. This book outlines the basics of the machine learning world. That being said, it isn't an easy read. 
+* The authors, trevor Hastie, Robert Tibshirani, and Jerome Friedman, are Stanford University statistics professors.
